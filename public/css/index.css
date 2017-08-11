@@ -1,0 +1,108 @@
+.version.index /* version checker */
+{
+	color: #0000E6;
+	background-color: #80671A;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 112px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u117
+{
+	z-index: 2;
+	width: 1159px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -38px;
+	left: -99px;
+}
+
+#u81
+{
+	z-index: 4;
+	min-height: 397px;
+	background: transparent url("../images/u81-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(8%, #007A85),to(rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(top,#007A85 8%,rgba(255,255,255,0) );
+	background: linear-gradient(to bottom,#007A85 8%,rgba(255,255,255,0) );
+	padding-bottom: 288px;
+}
+
+#u81_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u105
+{
+	z-index: 7;
+	width: 166px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 97px;
+}
+
+#u111
+{
+	z-index: 9;
+	width: 409px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 302px;
+	left: 377px;
+}
+
+#u97
+{
+	z-index: 5;
+	width: 128px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 929px;
+}
+
+#u81-bw
+{
+	z-index: 4;
+	min-height: 397px;
+	margin-top: -37px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

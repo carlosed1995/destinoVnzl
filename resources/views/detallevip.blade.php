@@ -1,0 +1,1 @@
+@extends('planesvip.detalle')
